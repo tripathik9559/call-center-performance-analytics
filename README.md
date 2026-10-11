@@ -72,6 +72,12 @@ Then open **MySQL Workbench** and run, in order:
 
 ---
 
+## 🔄 Project Workflow
+
+![Project Workflow](outputs/project_workflow.png)
+
+---
+
 ## 🏗️ Project Structure
 
 ```
@@ -132,7 +138,7 @@ call-center-performance-analytics/
 ### Power BI Dashboard
 - Power Query for data loading and shaping
 - DAX measures matching the Python and SQL KPI definitions
-- **2-page layout** — Executive Overview + Agent & Queue Performance
+- **2-page layout** — Executive Overview + Agent & Staffing Performance
 - Full steps in [`powerbi/POWERBI_GUIDE.md`](powerbi/POWERBI_GUIDE.md)
 
 ---
@@ -185,6 +191,14 @@ call-center-performance-analytics/
 - Add **Billing** capacity on days 1–7 of each month
 - Fix root causes of repeat contacts in **Retention** (knowledge base, escalation path)
 - Pair **new agents with a mentor** for their first 6 months
+
+### 🖼️ Dashboard Overview
+
+> Summary view generated with Python (Matplotlib) from `data/clean/calls_clean.csv`. The interactive Power BI version follows the layout in `powerbi/POWERBI_GUIDE.md`.
+
+![Dashboard Overview](outputs/dashboard_overview.png)
+
+![Agent & Staffing Performance](outputs/dashboard_page2_staffing.png)
 
 ### 🖼️ Charts
 
@@ -240,7 +254,6 @@ is a simplification (utilisation-based wait model, not a full queueing simulatio
 ## 👤 Author
 
 **Kartikey Kumar Tripathi**
-
 [GitHub](https://github.com/tripathik9559)
 
 ---
