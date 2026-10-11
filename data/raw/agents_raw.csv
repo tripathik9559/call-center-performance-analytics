@@ -1,0 +1,61 @@
+agent_id,agent_name,team,shift,tenure_months
+A001,Simran Sharma,Billing,Evening,29
+A002,Harsh Pandey,Billing,Morning,44
+A003,Kavya Yadav,Billing,Evening,5
+A004,Amit Kumar,Billing,Night,26
+A005,Manish Kumar,Billing,Evening,1
+A006,Vikram Pandey,Billing,Evening,9
+A007,Gaurav Tiwari,Billing,Morning,30
+A008,Siddharth Sharma,Billing,Morning,48
+A009,Harsh Gupta,Billing,Morning,56
+A010,Rohan Mishra,Billing,Morning,59
+A011,Siddharth Gupta,Billing,Morning,4
+A012,Vikram Kumar,Billing,Evening,18
+A013,Deepak Mishra,Billing,Evening,48
+A014,Neha Tiwari,Billing,Morning,50
+A015,Aarav Pandey,Billing,Morning,5
+A016,Arjun Pandey,Billing,Evening,49
+A017,Vikram Singh,Technical Support,Evening,8
+A018,Simran Yadav,Technical Support,Evening,12
+A019,Manish Sharma,Technical Support,Evening,37
+A020,Rahul Mishra,Technical Support,Morning,3
+A021,Simran Sharma,Technical Support,Morning,60
+A022,Aditi Singh,Technical Support,Morning,18
+A023,Tanvi Joshi,Technical Support,Evening,33
+A024,Pooja Verma,Technical Support,Morning,42
+A025,Shreya Tiwari,Technical Support,Morning,4
+A026,Sachin Verma,Technical Support,Morning,31
+A027,Divya Singh,Technical Support,Evening,15
+A028,Sachin Sharma,Technical Support,Evening,22
+A029,Aditi Mishra,Technical Support,Morning,26
+A030,Neha Pandey,Technical Support,Morning,44
+A031,Arjun Sharma,Technical Support,Evening,46
+A032,Shreya Singh,Technical Support,Night,11
+A033,Anjali Mishra,Technical Support,Morning,36
+A034,Meera Mishra,Technical Support,Evening,53
+A035,Meera Tiwari,Account Services,Evening,11
+A036,Anjali Mishra,Account Services,Morning,1
+A037,Sneha Verma,Account Services,Morning,4
+A038,Nisha Yadav,Account Services,Morning,38
+A039,Aarav Verma,Account Services,Morning,22
+A040,Priya Sharma,Account Services,Evening,58
+A041,Sachin Verma,Account Services,Evening,30
+A042,Sachin Gupta,Account Services,Evening,37
+A043,Aarav Gupta,Account Services,Evening,21
+A044,Pooja Yadav,Account Services,Night,5
+A045,Arjun Singh,Account Services,Morning,12
+A046,Pooja Verma,Account Services,Evening,42
+A047,Priya Verma,Sales,Night,2
+A048,Kavya Kumar,Sales,Morning,36
+A049,Arjun Tiwari,Sales,Morning,40
+A050,Anjali Verma,Sales,Morning,34
+A051,Nisha Verma,Sales,Morning,59
+A052,Karan Kumar,Sales,Evening,55
+A053,Tanvi Gupta,Sales,Evening,7
+A054,Harsh Pandey,Retention,Morning,4
+A055,Neha Sharma,Retention,Morning,58
+A056,Harsh Verma,Retention,Night,1
+A057,Anjali Singh,Retention,Evening,8
+A058,Siddharth Yadav,Retention,Evening,23
+A059,Karan Singh,Retention,Morning,1
+A060,Arjun Yadav,Retention,Evening,1

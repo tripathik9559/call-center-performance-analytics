@@ -1,0 +1,9 @@
+Raw rows: 60,696
+Duplicate call_id rows removed: 720
+Rows with unknown call_status after cleanup: 0
+Missing queue: 481 -> filled from agent team; still 'Unknown': 20
+Negative handle_seconds fixed with abs(): 239
+CSAT values outside 1-5 set to NULL: 180
+Repeat calls (same customer within 7 days): 7,488
+Clean rows: 59,976  (removed 720)
+Date range: 2026-04-01 01:48:44  to  2026-09-30 23:37:52
